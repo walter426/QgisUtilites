@@ -1,12 +1,20 @@
-# -*- coding: utf-8 -*-
-#
-#------ dofreq.py ---- 
-# v 0.1 2011 Feb 24: initital release
-# 
-# 
-#
-# (c) 2011 CMHK Radio Network
-#
+'/***************************************************************************
+'                               SQLite Tool
+'                             -------------------
+'    begin                : 2013-07-23
+'    copyright            : (C) 2013 by Walter Tsui
+'    email                : waltertech426@gmail.com
+' ***************************************************************************/
+
+'/***************************************************************************
+' *                                                                         *
+' *   This program is free software; you can redistribute it and/or modify  *
+' *   it under the terms of the GNU General Public License as published by  *
+' *   the Free Software Foundation; either version 2 of the License, or     *
+' *   (at your option) any later version.                                   *
+' *                                                                         *
+' ***************************************************************************/
+
 #from PyQt4.QtCore import *
 from PyQt4.QtGui import *
 #from qgis.core import *
